@@ -1,20 +1,21 @@
 {
   "name": "marketplace-demo",
   "description": "Démo de marketplace pour Claude Code.",
-  "version": "0.1.0",
   "owner": {
-    "name": "PackmindHub"
+    "name": "PackmindHub",
+    "email": "contact@packmind.com"
   },
   "plugins": [
     {
+      "slug": "demo-plugin",
       "name": "demo-plugin",
-      "source": "./plugins/demo-plugin",
-      "description": "Plugin de démonstration.",
       "version": "0.1.0",
-      "author": { "name": "PackmindHub" },
-      "license": "MIT",
-      "homepage": "https://github.com/PackmindHub/marketplace-demo",
-      "keywords": ["claude", "marketplace", "demo"]
+      "description": "Plugin de démonstration.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/PackmindHub/marketplace-demo.git",
+        "path": "plugins/demo-plugin"
+      }
     }
   ]
 }
