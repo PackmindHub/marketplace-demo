@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "plugins": {
+    "frontend": {
+      "version": "0.1.0",
+      "contentHash": "111875791c46da68cc120499230ab7cc7100bc2cae3a10ff2968e8c2539d91a0",
+      "lastPublishedAt": "2026-06-09T09:53:07.903Z",
+      "lastPublishedBy": "e68c8379-82b0-4fa7-90ea-89a707889b09"
+    }
+  }
+}

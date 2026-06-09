@@ -16,6 +16,17 @@
         "url": "https://github.com/PackmindHub/marketplace-demo.git",
         "path": "plugins/demo-plugin"
       }
+    },
+    {
+      "slug": "frontend",
+      "name": "Frontend",
+      "version": "0.1.0",
+      "description": "Packmind - space @global: React 19 with Clean architecture best practices.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/PackmindHub/marketplace-demo.git",
+        "path": "plugins/frontend"
+      }
     }
   ]
 }
