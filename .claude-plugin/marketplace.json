@@ -3,8 +3,7 @@
   "description": "Démo de marketplace pour Claude Code.",
   "version": "0.1.0",
   "owner": {
-    "name": "PackmindHub",
-    "email": ""
+    "name": "PackmindHub"
   },
   "plugins": [
     {
