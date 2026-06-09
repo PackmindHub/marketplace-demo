@@ -1,0 +1,9 @@
+{
+  "name": "demo-plugin",
+  "description": "Plugin de démonstration.",
+  "version": "0.1.0",
+  "author": { "name": "PackmindHub" },
+  "license": "MIT",
+  "homepage": "https://github.com/PackmindHub/marketplace-demo",
+  "keywords": ["claude", "marketplace", "demo"]
+}
